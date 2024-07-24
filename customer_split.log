@@ -1,0 +1,26 @@
+2024-07-22 16:57:40,128:ERROR:Error processing people-1000.csv: 'DoB'
+2024-07-22 16:57:40,129:ERROR:Program failed: 'DoB'
+2024-07-22 17:01:22,170:ERROR:Error processing people-1000.csv: 'DoB'
+2024-07-22 17:01:22,171:ERROR:Program failed: 'DoB'
+2024-07-22 17:17:10,035:ERROR:Error processing people-1000.csv: 'DoB'
+2024-07-22 17:17:10,037:ERROR:Program failed: 'DoB'
+2024-07-22 17:21:19,161:INFO:Successfully split the CSV file based on DoB.
+2024-07-22 17:21:19,162:INFO:Program completed successfully.
+2024-07-22 17:21:49,570:INFO:Successfully split the CSV file based on DoB.
+2024-07-22 17:21:49,571:INFO:Program completed successfully.
+2024-07-22 17:25:28,604:INFO:Successfully split the CSV file based on DoB.
+2024-07-22 17:25:28,605:INFO:Program completed successfully.
+Time : 2024-07-22 17:46:05,506 || Type:INFO || Line No.: 36 || Msg:Successfully split the CSV file based on Date of Birth.
+Time : 2024-07-22 17:46:05,508 || Type:INFO || Line No.: 49 || Msg:Program completed successfully.
+Time : 2024-07-22 17:47:24,840 || Type:INFO || Line No.: 36 || Msg:Successfully split the CSV file based on Date of Birth.
+Time : 2024-07-22 17:47:24,841 || Type:INFO || Line No.: 49 || Msg:Program completed successfully.
+Time : 2024-07-22 17:47:53,020 || Type:INFO || Line No.: 36 || Msg:Successfully split the CSV file based on Date of Birth.
+Time : 2024-07-22 17:47:53,020 || Type:INFO || Line No.: 49 || Msg:Program completed successfully.
+Time : 2024-07-22 17:48:26,976 || Type:INFO || Line No.: 36 || Msg:Successfully split the CSV file based on Date of Birth.
+Time : 2024-07-22 17:48:26,977 || Type:INFO || Line No.: 49 || Msg:Program completed successfully.
+Time : 2024-07-22 17:50:30,708 || Type:INFO || Line No.: 36 || Msg:Successfully split the CSV file based on Date of Birth.
+Time : 2024-07-22 17:50:30,709 || Type:INFO || Line No.: 49 || Msg:Program completed successfully.
+Time : 2024-07-22 17:51:33,303 || Type:INFO || Line No.: 36 || Msg:Successfully split the CSV file based on Date of Birth.
+Time : 2024-07-22 17:51:33,303 || Type:INFO || Line No.: 49 || Msg:Program completed successfully.
+Time : 2024-07-22 17:52:33,858 || Type:INFO || Line No.: 36 || Msg:Successfully split the CSV file based on Date of Birth.
+Time : 2024-07-22 17:52:33,858 || Type:INFO || Line No.: 49 || Msg:Program completed successfully.
